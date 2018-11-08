@@ -13,6 +13,8 @@ require 'jquery-rails'
 require 'jquery-ui-rails'
 require 'coffee-rails'
 require 'arbre'
+# in order to use rails variable in JS
+require 'gon'
 
 require 'active_admin/helpers/i18n'
 
